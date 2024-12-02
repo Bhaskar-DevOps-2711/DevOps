@@ -1,2 +1,14 @@
 Hello Team,
 My Name is Bhaskar
+
+
+Create remote repository in GitHub by name devops-training
+Open Git Bash, cd to desktop
+Clone the repository created in first step
+Open visual studio code inside git repository
+Create courses.txt file
+Add DevOps Master Course
+Stage the file
+Commit it
+Push to remote repository 
+Check whether changes are showing up in remote repository
